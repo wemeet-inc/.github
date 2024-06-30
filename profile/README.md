@@ -3,7 +3,7 @@
 your personal scheduling assistant, designed to make meeting management easy and efficient.
 
 <p align="center">
-  <img src="assets/wemeet poster wall.png" alt="wemeet poster" width="300"/>
+  <img src="assets/wemeet_poster_wall.png" alt="wemeet poster" width="300"/>
 </p>
 
 
